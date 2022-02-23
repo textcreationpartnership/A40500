@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Friendly vindication of Mr. Dryden from the censure of the Rota by his cabal of wits</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40500</idno>
+            <idno type="STC">Wing F2229</idno>
+            <idno type="STC">ESTC R21277</idno>
+            <idno type="EEBO-CITATION">12682096</idno>
+            <idno type="OCLC">ocm 12682096</idno>
+            <idno type="VID">65674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 354:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Friendly vindication of Mr. Dryden from the censure of the Rota by his cabal of wits</title>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65674:1" rendition="simple:additions"/>
+            <pb facs="tcp:65674:1"/>
+            <p>THE FRIENDLY VINDICATION OF M<hi rend="sup">r</hi>. DRYDEN From the CENSURE of the ROTA BY His CABAL of WITS.</p>
+            <q>
+               <l>Danda eſt hellebori noſtro pars magna Poetae,</l>
+               <l>Neſcio an Anticyram ratio illi deſtinet omnem.</l>
+            </q>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed in the Year M.DC.LXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65674:2"/>
+            <pb n="1" facs="tcp:65674:2"/>
+            <head>The Friendly Vindication OF Mr. <hi>DRYDEN, &amp;c.</hi>
+            </head>
+            <p>THe excellent Mr. <hi>Dryden</hi> taking into ſerious conſideration the Affairs of <hi>Wit,</hi> and having made an Aſſignation to that purpoſe with ſome flouriſhing <hi>Ingenuities,</hi> no leſs con<g ref="char:EOLhyphen"/>ſcious than admirers of his Fame: One of the for<g ref="char:EOLhyphen"/>wardeſt urged the immediate diſcuſſing the ſevere Cenſure of the <hi>Rota of Oxford;</hi> which, though ſeem<g ref="char:EOLhyphen"/>ing only to point at <hi>Granada,</hi> did collaterally reflect on all his <hi>Plays</hi> and <hi>Poems</hi> whatſoever. Mr. <hi>Dryden,</hi> not a little ſurprized to hear of <hi>Critical Engines</hi> levelled at his <hi>Sieges, Conqueſts,</hi> and the like, was meekly fal<g ref="char:EOLhyphen"/>ling into a ſwound almoſt paſt recovery by tweaking of his Noſe; till one of his ingenious Friends putting him in mind how the King had made him his <hi>Laureat,</hi> and how his <hi>Muſe</hi> had accompliſhed him for her <hi>Hero,</hi> in both which reſpects it did not become him to diſ<g ref="char:EOLhyphen"/>cover that ſhe had placed her <hi>Enſigns</hi> of <hi>Wit</hi> in ſo un<g ref="char:EOLhyphen"/>ſteady and puſillanimous a <hi>Brain</hi> as his might appear to be, (did he not ſuddenly recollect his Spirit accor<g ref="char:EOLhyphen"/>ding to that Expreſſion in his <hi>Maiden-Queen,</hi> ſpoken by her Handmaid <hi>Aſtrea,</hi> Act. 1.)
+<q>
+                  <l>You were gay humour'd, and you are</l>
+                  <l>Now penſive<note n="*" place="margin">
+                        <hi>Melancholick</hi> in the firſt Impreſſion.</note>—</l>
+                  <l>Once calm and now unquiet—</l>
+               </q>
+               <pb n="2" facs="tcp:65674:3"/> Not to ſay that few Poets beſides Mr. <hi>Dryden,</hi> ever treated a Queen with ſo light and homely an Enter<g ref="char:EOLhyphen"/>tainment of Words, as, <hi>Gay-humour'd,</hi> and the reſt in theſe two ridiculous lines.</p>
+            <p>A <hi>Knaviſh Wit</hi> here, that had a good mind to have been nibling at the fore-going Expreſſion, which ſignified no more in all thoſe words, than to ſay that the Queen was at ſome one time in better humour than at another: yet as he was of Mr. <hi>Drydens</hi> Ca<g ref="char:EOLhyphen"/>bal, ſaid, he ſhould rather infuſe into his ſoul (in this Conjuncture) ſome Doſes of <hi>Maximins</hi> and <hi>Alman<g ref="char:EOLhyphen"/>zors</hi> Heroical Bravery, and not give himſelf up to his Purſuers: like that <hi>ſimile</hi> of the Hare in <hi>Annus Mi<g ref="char:EOLhyphen"/>rabilis,</hi> of which two whole <hi>Stanza's</hi> are paraphraſti<g ref="char:EOLhyphen"/>cally, and ſomewhat more compendiouſly rendred, thus,
+<q>
+                  <l>Ev'n as the fearful Hare, when cours'd on Plain,</l>
+                  <l>And longer can't her flight maintain,</l>
+                  <l>By the fierce Dog, with flix turn'd up does lie,</l>
+                  <l>Who though not kill'd, yet cannot flie.</l>
+               </q>
+            </p>
+            <p>The Reader may ſuppoſe that Mr. <hi>Dryden</hi> was in almoſt as cold a fit as the Hare he deſcribes, wherefore not in a condition to be asked by what reaſon he calls fearful, ſo timorous a Creature as a Hare naturally is; ſince no man ever heard of a <hi>valiant Hare:</hi> or why he preſumed to apply this mean <hi>ſimile</hi> to Prince <hi>Ruperts</hi> Ship and ſome others, when diſabled in their fight with the <hi>Dutch;</hi> which if allowed, does rather imply that the Prince and the reſt, had run away like the Hare at firſt, and would have done ſo afterwards, in imitation of a Hare, had it been in their power; and not have encountred the Enemy with that magnanimity that
+<pb n="3" facs="tcp:65674:3"/> appeared throughout this action. But though this <hi>ſimi<g ref="char:EOLhyphen"/>le</hi> ſquar'd ſo ill with the gallantry of the Action; a fault not to be pardoned in Poetry, ſince its Illuſtrations and Metaphors ſhould not only ſuit, but endeavour to exalt, (and not depreſs, as it is obſervable in Mr. <hi>Dry<g ref="char:EOLhyphen"/>den</hi>) the greatneſs of the Subjects it treateth of; Ac<g ref="char:EOLhyphen"/>cording to this of <hi>Horace,</hi>
+               <q>
+                  <l>Incoeptis gravibus plerumque &amp; magna profeſſis,</l>
+                  <l>Purpureus late qui ſplendeat, unus &amp; alter,</l>
+                  <l>Aſsuitur pannus.—</l>
+               </q> Yet this Gentleman who ſpake laſt was ſo indulgent to Mr. <hi>Drydens</hi> Repute, that he adviſed him, rather than yeild to any thing that could be objected againſt his Poetry, to turn the line in his firſt Part of <hi>Grana<g ref="char:EOLhyphen"/>da,</hi> mentioned by the <hi>Rota,</hi>
+               <q>
+                  <l>This is my will, <hi>&amp;c.</hi>
+                  </l>
+               </q> into
+<q>
+                  <l>This is my wit, and this my wit ſhall be.</l>
+               </q> Adding, that he conceived his Muſe had not made a more uſeful converſion for him of any Verſe of his. That he had proved they had kindneſs enough to juſti<g ref="char:EOLhyphen"/>fie what he had, or could write, though they barked for his ſake, at better Wit than any of his.</p>
+            <p>At which, ſome conflict paſſed betwixt the <hi>Pale</hi> and <hi>Vermilion</hi> of his Cheek, (a thing very incident to ſuch Complexions, when made Creatures of Fame) as alſo ſome melancholy puffs and ſwellings againſt the <hi>Rota,</hi> as if he had been inclinable to break ſilence with this pathetick and Courtly Expreſſion delivered by his Maiden-Queen—
+<pb n="4" facs="tcp:65674:4"/>
+               <q>
+                  <l>I muſt tell you, it is a ſawcy<note n="*" place="margin">
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ome ſay <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> firſt Copy <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>conſuming</hi> 
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſtead of <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>cy,</hi> not <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ch a better <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ithet join'd <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Boldneſs.</note>
+                  </l>
+                  <l>Boldneſs thus to preſs on my Retirements.</l>
+               </q>
+            </p>
+            <p>Here one made a <hi>Querie,</hi> whether <hi>Sawcie</hi> was not a pretty <hi>Sawce-box</hi> word annexed to boldneſs. Ano<g ref="char:EOLhyphen"/>ther of his Comrades, who had Authority enough over his Perſon and Muſe, to paſs his Raillery, ſaid, that his reſtauration of ſpirit in this Iſſue of his affairs, put him in mind of that Poetical Expreſſion of his in <hi>Maximin, Pag.</hi> 4.
+<q>
+                  <l>Midſt this was heard the ſhrill and tender crie</l>
+                  <l>Of well pleas'd Ghoſts, which in the ſtorm did flie,</l>
+                  <l>Danc'd too and fro, and skim'd along the ground,</l>
+                  <l>'Till to the Magick Circle they were bound.</l>
+               </q>
+            </p>
+            <p>Here one took notice how excellently Mr. <hi>Dryden</hi> had deſcribed the Voices, Muſick, and Dancing of Ghoſts; or if you pleaſe, an Antimask of Ghoſts in the Air. But why ſhrill and tender ſhould be the pleaſing ornament of their Voices, ſince in it ſelf no delightful way of ſpeaking, or ſinging, was to be left to the diſcuſſion of Ghoſts and Mr. <hi>Dryden</hi> alone: though they could not but condeſcend, that Mr. <hi>Dryden</hi> did deſerve a tender Rebuke at leaſt, for this harſh and gentle fiction, which his Pen had ſo muſically beſtow<g ref="char:EOLhyphen"/>ed on Ghoſts. That it was true, that out of their reſpects to him, they had often endeavoured to blind the World from obſerving the incongruity of ſuch Metaphors, (as ſawcy boldneſs, ſhrill and tender, and the like,) not ſeldom uſed by him in this inconſiſtent manner of Expreſſion, the better to wing his Muſe to her height; or that ſhe might flie in any ſtorm, or
+<pb n="5" facs="tcp:65674:4"/> dance to and fro, or skim along the ground, as he and ſhe thought beſt: ſince he had merited that kindneſs from them, by his moſt ingenious converſe and writing (beſides ſome other more ſecret obligations) as alſo to cry up and preſerve the honour of the Laurel conferred on him. Wherefore conſidering the Oppoſition which he and they have had, or may have; eſpecially at this time, when his Muſe is ſo perniciouſly attaqued by the <hi>Rota,</hi> and other malignant Criticks: they thought fit to deſire him for the better ſtrengthening of himſelf, to apply theſe Verſes likewiſe of his <hi>Maximin</hi> to his preſent dangers,
+<q>
+                  <l>
+                     <note n="*" place="margin">They Cour<g ref="char:EOLhyphen"/>ſing it, that is to ſay, The <hi>Rota</hi> courſing his Muſe.</note>They courſing it, as he were fenc'd within</l>
+                  <l>And ſaw this dreadful Scene of Fate begin.</l>
+               </q> which is his very conjuring expreſſion, placing, <hi>as he were,</hi> in ſtead of, <hi>while we were.</hi>
+            </p>
+            <p>Another ſaid ingeniouſly enough, that the Cenſure of the <hi>Rota,</hi> or its Author, paſſed on his Poems and Plays, did very pertinently metaphor the volubility and rotation of Poetical fortune in neglect of his <hi>Wit;</hi> which it became him confidently to reſent according to this in <hi>Maximin,</hi> where his Muſe had often threat<g ref="char:EOLhyphen"/>ned bombaſt-vengeance on Gods and Men:
+<q>
+                  <l>Provoke my rage no further, leaſt I be</l>
+                  <l>Reveng'd at once, upon the Gods and Thee.</l>
+               </q> At this ſome could not chuſe but ſmile (though his Entire Admirers) to think what a ſupreme Divinity Mr. <hi>Drydens</hi> Muſe was, that durſt thus threaten all Powers, Divine and Human.</p>
+            <p>Mr. <hi>Dryden</hi> being pretty well refreſhed by ſwallow<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:65674:5"/> theſe Cordials extracted from his Muſes <hi>Limbecks,</hi> after he had cleared ſome drops of cold ſweat from his forehead, and rubbed it to ſome Confidence, with due Obeyſance made to theſe his Friends and Applau<g ref="char:EOLhyphen"/>ders, together with ſome pangs of thought, (not much unlike his Inſpirations) Replied, That be muſt always acknowledge the ſupport his <hi>Wit</hi> received from the Eſteem and Vogue they allowed though his Enemies called making his Party and Faction, it had been hitherto his good providence: nay added, That (among themſelves) he had no reaſon to expect ap<g ref="char:EOLhyphen"/>plauſe without it. That he ſtill implored the ſame favourable Aſpects from them, and that they would dare all Eyes which ſhould obſerve or read his Wri<g ref="char:EOLhyphen"/>tings with any reflections on their faults: though they may believe that it troubled not a little his Conſci<g ref="char:EOLhyphen"/>ence, that notwithſtanding their aſſignation of favour to his late New Play called <hi>Love in a Nunnery,</hi> the Town ſhould conceive it Juſtice to condemn both his and their Endeavours. Upon which, he more in<g ref="char:EOLhyphen"/>ſtantly deſired them for the future to <hi>clap</hi> and <hi>hawl</hi> more exceeding for his ſake, leſt he ſink by the Cen<g ref="char:EOLhyphen"/>ſure of the World, as well as the <hi>Rota's:</hi> that what<g ref="char:EOLhyphen"/>ſoever was his, might be reverenced as a Play, and ſo voted, though without <hi>Intrigue</hi> or <hi>Wit.</hi> And ſince they had put him into a way to ſtrengthen himſelf with his own Lines, he uttered theſe in <hi>Maximin,</hi> (a Play fruitful enough for ſuch quotations) for their more kind memorial, uſing the word Plays, in ſtead of Wars,
+<q>
+                  <l>We are not ſure to morrow will be ours,</l>
+                  <l>Plays, have like Love, their favourable hours;</l>
+                  <l>Let us uſe all, for if we loſe one day,</l>
+                  <l>That white one in the Crowd may ſlip away.</l>
+               </q>
+            </p>
+            <pb n="7" facs="tcp:65674:5"/>
+            <p>He deſired them to forgive the large extent of this Petition, though perhaps the <hi>Rota</hi> might conceive it <hi>Non-ſenſe</hi> amongſt the reſt; it being not uſual in the <hi>Engliſh</hi> Tongue, to call a fair, ſerene, or proſperous day, a white day: That he deſired them to impute this Inſpiration to a Dream he had of white Money, to be ſhared in the Play-houſe. Adding, that no<g ref="char:EOLhyphen"/>thing leſs could ſquare with his profit, than wholly appropriating the fame and perquiſits of <hi>Wit,</hi> (at leaſt of one Play-houſe) to himſelf: for which purpoſe, he could not but with all humility, implore their Em<g ref="char:EOLhyphen"/>bargo on all others Poets that might poſſibly impair his repute, and Trade of Writing, though their Con<g ref="char:EOLhyphen"/>ſciences were ſo guilty as to believe his Plays the worſt.</p>
+            <p>That the <hi>Drama</hi> did require too many drams of <hi>Wit</hi> (he hoped they would excuſe his Clinch) to be compounded by his <hi>Genius;</hi> which in the beginning of his undertaking he ſufficiently obſerved, as was evi<g ref="char:EOLhyphen"/>dent to them and the World, in his Practiſes to gain Proſelytes to his Muſe. As alſo his humble and ſup<g ref="char:EOLhyphen"/>plicant Addreſſes to <hi>Men</hi> and <hi>Ladies of Honour,</hi> to whom he preſented the moſt of his Plays to be read, and ſo paſſing through their Families to comply their Cenſures before-hand: confeſſing ingeniouſly, that had he ventured his <hi>Wit</hi> on the <hi>Tenter-hooks of For<g ref="char:EOLhyphen"/>tune</hi> (like other Poets, who depended more on the merit of their Pens,) he had been more ſeverely in<g ref="char:EOLhyphen"/>tangled in his own Lines long ago.</p>
+            <p>To this, one of his Aſſociate <hi>Wits</hi> replied, That he thought it reaſonable (were his profit not too deeply concerned) to perſwade him to deſiſt from Writing, as ſome Poets had diſcreetly and timely obſerved, like that of <hi>Juvenal,</hi>
+               <pb n="8" facs="tcp:65674:6"/>
+               <q>
+                  <l>Frange Miſer Calamos—</l>
+               </q> ſince he was as egregious already as black and white could make him. But however, if he were taken for no good Comick-Poet, or Satyriſt; he had found a way of much eaſier Licenſe, (though more remark<g ref="char:EOLhyphen"/>able in the ſenſe of ſome) which was, not only to Li<g ref="char:EOLhyphen"/>bel mens perſons, but to repreſent them on the Stage too: That to this purpoſe he made his obſervations of men, their words and actions, with ſo little diſguiſe, that many beheld themſelves acted for their Half Crown: yet after all, was unwilling to believe, that this was not both good Comedy, and no leſs good manners. Beſides, that he had been ſo frankly ob<g ref="char:EOLhyphen"/>liging as (where he could not uſe a Character, or ap<g ref="char:EOLhyphen"/>prehended the Licenſe) to aſſign it to ſome other Poet of his Cabal, or exchange one Part for another, it may be <hi>Club Wit</hi> too, the better to ſet men forth: That this was a <hi>Sir Poſitive Truth</hi> Mr. <hi>Dryden</hi> had not fore-head enough to denie.</p>
+            <p>At which, there being obſerved a guilty variety in his Countenance— A certain Gallant ſtept forth and ſaid, that what was paſt, was paſt: beſides, that Mr. <hi>Dryden</hi> had made his ſubmiſſions and recantations moſt ingeniouſly both by word and writing: that he conceived a perſon of Honour, had a Letter dedicated to the Fire, even by the Hangmans hands, if the injur'd ſhould think it neceſſary; therefore what was done was candid enough as to that particular. If Mr. <hi>Dry<g ref="char:EOLhyphen"/>den</hi> courted more his ſecurity than honour, he was not to be blamed, if his temper found it convenient: Or it might be interpreted his Kindneſs, in not being willing to put ſo much <hi>Wit</hi> as his own to hazard, eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="9" facs="tcp:65674:6"/> ſince he proved it ſo dear to his Admirers. That it was enough to Cajole the fierceſt Hector, im<g ref="char:EOLhyphen"/>ployed on any ſuch account to him; as perhaps it ſucceeded with Sir <hi>Fretchevil Hollis,</hi> from this Verſe in <hi>Annus Mirabilis,</hi>
+               <q>
+                  <l>Young <hi>Hollis,</hi> on a Muſe by Mars begot.</l>
+               </q> No leſs than <hi>Youth, Wit,</hi> and <hi>Valour,</hi> chained together in one line; beſides ſuch a way to beget a <hi>Hero</hi> as is not to be found in any Poet; except that of his <hi>Al<g ref="char:EOLhyphen"/>manzor,</hi> as extraordinarily begot by Mr. <hi>Dryden</hi> on his Muſe.</p>
+            <p>Here he extolled the <hi>charming Wit</hi> of Mr. <hi>Dryden,</hi> that could ſo prepoſſeſs the hearts of men.</p>
+            <p>In a word, where he had figured any on the <hi>Scene,</hi> or <hi>Preſs,</hi> he was no leſs plyant to take them off as dexterouſly again: That it was Mr. <hi>Dryden's Bizarre in Wit,</hi> and Poets muſt be allowed ſo much variety, as ſometimes to exceed the limits of Moderation and regular Characters.</p>
+            <p>Mr. <hi>Dryden</hi> was in ſome diſorder here, as indeed the mention of Regular parts and Characters could not but concern all his Plays, and did moſt eſpecially at this time put him in mind of his dear beloved <hi>Al<g ref="char:EOLhyphen"/>manzor;</hi> in honour to whom, he had adorned the Frontiſpiece of <hi>Granada</hi> with,
+<q>
+                  <l>—Major rerum mihi naſcitur Ordo,</l>
+                  <l>Majus opus moveo.</l>
+               </q> and was now no inwardly lamented by him, as ſuf<g ref="char:EOLhyphen"/>fering by the <hi>Academick Rota,</hi> not only as an abomina<g ref="char:EOLhyphen"/>ted <hi>Hero,</hi> but as one who with his untruly Lines had
+<pb n="10" facs="tcp:65674:7"/> broke moſt ſcornfully the Right Reverend <hi>Priſcians</hi> head, with ſome other deformities— he was go<g ref="char:EOLhyphen"/>ing to add, <hi>a gloomy ſmile aroſe,</hi> but that it appeared by Mr. <hi>Dryden,</hi>
+               <q>
+                  <l>—<note n="*" place="margin">Cited by the <hi>Rota</hi> out of the <hi>Granada.</hi>
+                     </note>That the more he heard,</l>
+                  <l>A more ſevere and ſullen Joy appear'd.</l>
+               </q>
+            </p>
+            <p>Another was ſaying that Mr. <hi>Dryden's Wit</hi> could be both blunt and ſharp; and that the edge of day might poſſibly have this operation on his Muſe when ſhe awak'd his Verſe too early, or out of humour; wherefore he adviſed Mr. <hi>Dryden</hi> to trie what Effect the edge of Night would have on his Imagination; and perhaps the Metaphor might be better allowed <hi>going to Bed,</hi> or <hi>Drunk:</hi> deſiring him to recollect what time of the natural Day it was, that he writ the Pro<g ref="char:EOLhyphen"/>logue before the <hi>Maiden Queen,</hi> beginning thus,
+<q>
+                  <l>He that writ this, not without pain and thought,</l>
+                  <l>From <hi>French</hi> and <hi>Engliſh</hi> Theatres has brought</l>
+                  <l>The exacteſt Rules, by which a Play is wrought.</l>
+               </q>
+            </p>
+            <p>Whether Mr. <hi>Dryden</hi> was no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confident enough, in puting ſuch a <hi>Panegyrick</hi> of himſelf before a Play writ<g ref="char:EOLhyphen"/>ten with ſo feminine an <hi>Intrigue</hi> and <hi>Genius,</hi> as may be perceived by what hath been inſtanced already, in ſtead of troubling the Brain with further Remarques.</p>
+            <p>At which another replied briskly, that it was Mr. <hi>Dryden</hi>'s Intereſt to be allowed to ſpeak, write, cenſure of Men and Wit as he pleaſed; that he had done it hitherto fortunately enough, and that for his ſake they muſt ſo applaud him, which was well e<g ref="char:EOLhyphen"/>nough <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before by himſelf.</p>
+            <pb n="11" facs="tcp:65674:7"/>
+            <p>That it muſt be granted on all ſides that Mr. <hi>Dry<g ref="char:EOLhyphen"/>den</hi> has <hi>Wit,</hi> or was to be thought <hi>witty</hi>—</p>
+            <p>Here one of his <hi>Comrade-wits</hi> cried, <hi>Hold,</hi> That it was not good to proceed on that ground, becauſe it was fallacious, and would be anſwered by many, in ſaying, That he never had that Judgment or Wit he pretended to, for a Reaſon mentioned by the <hi>Rota,</hi> and ſuch a one as Mr. <hi>Dryden</hi> could not deny.</p>
+            <p>Wherefore the Logick of the Argument being in effect no more but this,
+<q>Either you have a Gig, or have loſt a Gig,</q> Which may be anſwered by ſaying,
+<q>You never had a Gig.</q>
+            </p>
+            <p>But he forbore to apply it to Mr. <hi>Dryden.</hi> He pro<g ref="char:EOLhyphen"/>ceeded to ſhew, That whatſoever was Mr. <hi>Dryden</hi>'s Wit, it was well enough proportioned to receive what praiſes they could beſtow upon it; or what could be given by himſelf, to himſelf: To which purpoſe, his dealing with <hi>Ben Jahnſon</hi> (though dead, and of Immortal Fame with the judicious) was very obſervable, in that Mr. <hi>Dryden,</hi> who had at one time thought fit to call his Comedy, with the reſt of his Time, mean, low, or as you have it in this hobling Verſe of his mentioned by the <hi>Rota,</hi>
+               <q>
+                  <l>Then Comedy was faultleſs, but 'twas courſe,</l>
+               </q> (not to examine the conſiſtency of <hi>courſe</hi> and <hi>faultleſs,</hi>) At another time had otherwiſe ſung a Parallel of his Muſes Fame with <hi>Ben. Johnſon</hi>'s, as in his Prologue
+<pb n="12" facs="tcp:65674:8"/> to the <hi>Maiden Queen,</hi> where he vain-gloriouſly enough calls that Play
+<q>
+                  <l>—a mingled Chime</l>
+                  <l>Of Johnſons humour, and <hi>Corneille's</hi> Rhime.</l>
+               </q> But how <hi>Johnſons</hi> humour, could make ſuch Muſick with <hi>Corneille</hi>'s rhyme, is not to be underſtood other<g ref="char:EOLhyphen"/>wiſe, than as Mr. <hi>Dryden</hi> hath made his own Commen<g ref="char:EOLhyphen"/>dation and it chime together. Which may be called another <hi>Bizarre</hi> in Mr. <hi>Dryden.</hi>
+            </p>
+            <p>As for his Comedy, it was objected by ſome, that it was as great an offence to good Morality, as his <hi>Maximin</hi> was to Chriſtianity. That his <hi>Marriage a la Mode,</hi> and his <hi>Love in a Nunnery,</hi> were moſt ex<g ref="char:EOLhyphen"/>cellent Collections of <hi>Bawdery.</hi> But the wonder was, how Mr. <hi>Dryden</hi> came to conceive his fulſome Con<g ref="char:EOLhyphen"/>ceits to be refin'd Wit; as he had ſuggeſted to his Friends, ſince <hi>Bawdery</hi> had never that repute, before Mr. <hi>Dryden</hi> writ it. That in good Comedy, there were innumerable Excellencies relating to <hi>Wit</hi> and <hi>Manners,</hi> to which there was ſome fear that his <hi>Ge<g ref="char:EOLhyphen"/>nius</hi> would never arrive: which ſhews, that if his Invention be not free and airy enough for that purpoſe, his Imagination (whatſoever his perſon is) was ſuffi<g ref="char:EOLhyphen"/>ciently laſcivious. But perhaps Mr. <hi>Dryden</hi> conceives of the ſucceſs of Plays, as <hi>Martial</hi> did of ſome licen<g ref="char:EOLhyphen"/>tious Writings of his:
+<q>
+                  <l>Non poſſunt ſine mentula placere.</l>
+               </q> or which is all one, the <hi>Dildo</hi> of Mr. <hi>Drydens</hi> Muſe, ſo neatly applied to the females of the Town.</p>
+            <p>He that ſaid this, though a great favourer of Mr. <hi>Dry<g ref="char:EOLhyphen"/>den,</hi>
+               <pb n="13" facs="tcp:65674:8"/> could not but grant that there were a great many Contradictions and Miſtakes in the management of his <hi>Muſe.</hi>
+            </p>
+            <p>Here another took up the Diſcourſe, ſaying, That ſince they were now met thus, it was not unfriend<g ref="char:EOLhyphen"/>ly to proceed to ſome Reformation of Mr. <hi>Drydens Wit</hi> and <hi>Manners</hi> together; as well as they had hi<g ref="char:EOLhyphen"/>therto in a headlong manner vindicated him to the World. In order to which, it was to be told Mr. <hi>Dry<g ref="char:EOLhyphen"/>den</hi> that he in the ſenſe of ſome, with no leſs Arro<g ref="char:EOLhyphen"/>gance and Ignorance, taxed <hi>Virgil</hi> the Prince of <hi>La<g ref="char:EOLhyphen"/>tine</hi> Poets, then he had injured <hi>Ben Johnſon</hi> the beſt of <hi>Engliſh;</hi> that in his Preface to his <hi>Annus Mirabi<g ref="char:EOLhyphen"/>lis,</hi> notwithſtanding to adorn that miraculous Poem he had tranſverſed many things of the incomparable <hi>Virgils,</hi> (as may be ſeen by his acknowledgment, and Marginal Notes to that purpoſe,) yet he there ſays thus of him:
+<q>
+                  <hi>Though he deſcribes his</hi> Dido <hi>well and naturally, in the violence of her paſſions, yet he muſt yield to</hi> Ovid <hi>in that of</hi> Myrrha, <hi>the</hi> Biblis, <hi>the</hi> Althea <hi>of Ovid.</hi>
+               </q>
+            </p>
+            <p>And a litte after,
+<q>That if I ſee not more of their ſouls, then I ſee of <hi>Di<g ref="char:EOLhyphen"/>do's,</hi> at leaſt I have a greater concernment for them.</q>
+            </p>
+            <p>He added, That he could not chuſe but reprehend this ſoloeciſm of commendation in Mr. <hi>Dryden:</hi> won<g ref="char:EOLhyphen"/>dring with what Brow he could ſay, that if he ſaw not more of their ſouls then he ſaw of <hi>Dido's,</hi> yet he had a greater concernment for them. How this would paſs, or could quadrate with any favourable allowance of ſenſe, he could not imagine. For to ſay that <hi>Dido</hi>'s was the more large, the more heroick, the more paſ<g ref="char:EOLhyphen"/>ſionate Soul, yet muſt not concern Mr. <hi>Dryden</hi>'s In<g ref="char:EOLhyphen"/>genuity ſo far as the others, he thought fit to under<g ref="char:EOLhyphen"/>ſtand
+<pb n="14" facs="tcp:65674:9"/> it amongſt the reſt of Mr. <hi>Dryden</hi>'s <hi>Bizarrs</hi> in Wit and Judgment. And that he would not chuſe his Panegyricks of moſt Poets, ſince they were either Impertinent, or Contradictory to what he could wiſh in him. Wherefore he would mind him of what ſome Criticks may retort upon him, (who though they take it not well, yet do not judge it worth their labour to vindicate the matchleſs Wit of <hi>Virgil</hi>) that if they ſee not more of his Love, than was to be ſeen in his <hi>Eliza</hi> the <hi>Maiden Queen,</hi> or what they ſaw in his St. <hi>Catherine,</hi> or his <hi>Light buskin'd Queen Almahide;</hi> (that made <hi>Boabdalin</hi> her Cully, though her King and Husband, in order to the Embrace of her more ſtre<g ref="char:EOLhyphen"/>nuous <hi>Almanzor,</hi>) or if they perceived the ſame ef<g ref="char:EOLhyphen"/>fects of his Muſe in <hi>Maximin</hi> and <hi>Almanzor,</hi> as alſo throughout thoſe Plays convertibly varied, he was not to believe they could be much concerned with his Characters; or that moſt of his Friends would not wiſh that Mr. <hi>Dryden</hi> would either improve his Muſe, or give over writing.</p>
+            <p>At this Mr. <hi>Dryden</hi> began to be in a cold Sweat again; till promiſed that the diſcuſſion of <hi>Maximin</hi> and <hi>Granada</hi> ſhould be deferred to a farther debate, if his concern required it.</p>
+            <p>Which a forward Wit of his Party perceiving, ſaid, That the Gentleman that ſpoke laſt (though he could not contradict his Judgment) had miſtaken the <hi>In<g ref="char:EOLhyphen"/>trigue</hi> that Mr. <hi>Dryden</hi> endeavours to hold with the World: that Mr. <hi>Dryden</hi> writ as well as any man that could write no better; and was no leſs himſelf in his laſt Play, called <hi>Love in a Nunnery;</hi> the fate whereof had occaſioned him to confeſs, that he ſome<g ref="char:EOLhyphen"/>times by their help had ſlur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a Play on the Au<g ref="char:EOLhyphen"/>dience, and that it was his utmoſt expectation and de<g ref="char:EOLhyphen"/>ſire,
+<pb n="15" facs="tcp:65674:9"/> that they would continue ſtill ſo kind as to que<g ref="char:EOLhyphen"/>ſtion nothing of his; that it had been likewiſe acknow<g ref="char:EOLhyphen"/>ledged by him, that he intended the ſame, for this laſt Catholick <hi>Intrigne</hi> of his, which he called <hi>pawming of a Play on the Town.</hi>
+            </p>
+            <p>The Expreſſion was ſomething odd, it was yielded, and repreſented his hearers no leſs than <hi>Sots</hi> and <hi>Gulls,</hi> to be bubbled thus of their Underſtandings by him. That Mr. <hi>Dryden</hi>'s Education was not ſo exact, as that no mixture was to be found in his <hi>Manners</hi> as well as <hi>Wit:</hi> that he was a Poet in <hi>Olivers</hi> time, and ſome<g ref="char:EOLhyphen"/>thing more ſubſervient to his Principality; but theſe were things to be handled at another meeting, if Mr. <hi>Dryden</hi> thought fit: adding that he did write more for Profit than Reputation, or collaterally for both. The firſt of which, he allowed to be the more abſolute Miſtreſs of his Muſe, as was hinted by him<g ref="char:EOLhyphen"/>ſelf before? though it is true that as an Ambidexter in Wit, he intended to engroſs both ſolely to himſelf. But he was to know that Mr. <hi>Dryden</hi>'s words did not always declare his meaning, and were varied as beſt ſerved his turn; ſometimes for money, ſometimes for both money and fame; another time for fame <note n="*" place="margin">See the con<g ref="char:EOLhyphen"/>cluſion of his Letter to Sir <hi>R. H.</hi> be<g ref="char:EOLhyphen"/>fore his <hi>An<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Mirab.</hi>
+               </note> above all things, who by no means muſt be allowed other than the beſt Poet in <hi>England,</hi> and had ſo cauſed him<g ref="char:EOLhyphen"/>ſelf to be given out by his Friends; which cannot but be acknowledged another <hi>quaint</hi> variety in Mr. <hi>Dry<g ref="char:EOLhyphen"/>den.</hi>
+            </p>
+            <p>One asked whether upon the before-mentioned di<g ref="char:EOLhyphen"/>verſities obſerved in Mr. <hi>Dryden,</hi> he might not heroick<g ref="char:EOLhyphen"/>ly deſcribe himſelf by ſaying this Verſe in <hi>Maximin,</hi>
+               <q>
+                  <l>I reel and ſtagger, and am drunk with light.</l>
+               </q>
+               <pb n="16" facs="tcp:65674:10"/> That it muſt be acknowledged, that Mr. <hi>Dryden</hi> could not deſerve leſs than to be ſoberly blamed; and ſo they had done and ſhould do farther, as occaſion of<g ref="char:EOLhyphen"/>fered. He ſaid, that it had been granted already that Mr. <hi>Dryden</hi> had been held an odd man enough always, by ſome who had proved him. Notwithſtanding, if his merit was ſmall, they were ſorry he had taken ſo much pains to divulge it; which they did unwilling<g ref="char:EOLhyphen"/>ly inſtance to him at this time, conſidering he was ſomething penſive and indiſpoſed, as being under a <hi>gloomy ſullen</hi> Cenſure of the <hi>Rota's;</hi> and his Muſe to undergo a ſevere penance for his aſſignations of <hi>Love in a Nunnery;</hi> all which it was hoped he would ſuffer with a <hi>ſhrill tender</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſineſs of mind, if ſhe could not inſpire him with a more proper and ſecure reme<g ref="char:EOLhyphen"/>dy. As likewiſe, not to be enraged from theſe gen<g ref="char:EOLhyphen"/>tle ſtroakings of his Friends, or hope from thence more ſafely to kick at their Counſels, like this of <hi>Horace,</hi>
+               <q>
+                  <l>Hunc male ſi palpere, recalcitrat, undique tutus.</l>
+               </q> When on the other ſide, it is but taking advice from his own Verſe, and receive this noiſe and hubbub about his Wit, no more diſturbed then if
+<q>
+                  <l>A horrid ſtillneſs did invade his Ear.</l>
+               </q>
+            </p>
+            <p>For his Plays, it was unanimouſly accorded, that though they wiſhed them well, they reſolved hence<g ref="char:EOLhyphen"/>forth to be more juſt to his failings than they had hi<g ref="char:EOLhyphen"/>therto appeared, and not endeavour the pawming of them on the Town, if his Wit had no better a trick to thrive by.</p>
+            <pb n="17" facs="tcp:65674:10"/>
+            <p>Asking ſome pardon of the World for ſo long con<g ref="char:EOLhyphen"/>cealing his defects, or miſtaking his Wit, to the ne<g ref="char:EOLhyphen"/>glect of better: That if he did imploy ſome vacant hours of his Muſe for his vindication againſt the <hi>Rota,</hi> they thought it not amiſs (at leaſt before he writ any more Plays) ſince his Audience was reſolved to con<g ref="char:EOLhyphen"/>ſtrue his ſenſe a little better than yet they had done.</p>
+            <p>And ſince Mr. <hi>Dryden</hi> and his Muſe, are beſt ex<g ref="char:EOLhyphen"/>tolled by his own Pen, it was thought fit to annex this honourable and pacifick Wiſh to his future Produ<g ref="char:EOLhyphen"/>ctions of Wit; (taken out of his <hi>Maximin</hi>) uſing only the word <hi>Writing</hi> in ſtead of <hi>Thouſand,</hi>
+            </p>
+            <p>Thus,
+<q>
+                  <l>So may'ſt thou live thy <hi>Writing</hi> Years in Peace,</l>
+                  <l>And ſee thy Airy Progeny increaſe.</l>
+               </q>
+            </p>
+            <trailer>FINIS or not FINIS As Mr. <hi>Dryden</hi> pleaſeth.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
